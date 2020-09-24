@@ -1,1 +1,5 @@
 *.pbxproj -text
+*.js linguist-detectable=true
+*.java linguist-detectable=false
+*.h linguist-detectable=false
+*.m linguist-detectable=false
